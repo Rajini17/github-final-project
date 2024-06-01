@@ -9,3 +9,5 @@
 <h3>Output:</h3>
 
    Simple Interest = p * t * R
+<br>
+<h2>&copy; 2022 XYZ,Inc.</h2>
