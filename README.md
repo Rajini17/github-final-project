@@ -3,7 +3,7 @@
 <h3>A calculator that calculates simple interest given principal, annual rate of interest and time period in years.</h3>
 <h3>The Simple Interest Calculator looks like:</h3>
 <br>
-<img src=""D:\git project\sic.jpg"">
+<img src="D:\git project\sic.jpg" width="200" height="100">
 <br>
 <h3>Input:</h3>
    p, principal amount <br>
