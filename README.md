@@ -8,4 +8,4 @@
    
 <h3>Output:</h3>
 
-   Simple Interest = p&t&R
+   Simple Interest = p X t X R
